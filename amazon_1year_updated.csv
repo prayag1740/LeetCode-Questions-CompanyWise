@@ -14,7 +14,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link, Status
 5,Longest Palindromic Substring,29.5%,Medium,2.7358200747627843, https://leetcode.com/problems/longest-palindromic-substring, DONE
 21,Merge Two Sorted Lists,53.5%,Easy,2.678307039145778, https://leetcode.com/problems/merge-two-sorted-lists, DONE
 472,Concatenated Words,43.7%,Hard,2.636650106787832, https://leetcode.com/problems/concatenated-words,
-973,K Closest Points to Origin,63.8%,Medium,2.6240138122465444, https://leetcode.com/problems/k-closest-points-to-origin,
+973,K Closest Points to Origin,63.8%,Medium,2.6240138122465444, https://leetcode.com/problems/k-closest-points-to-origin, DONE
 23,Merge k Sorted Lists,40.2%,Hard,2.5524109933277668, https://leetcode.com/problems/merge-k-sorted-lists,
 1167,Minimum Cost to Connect Sticks,62.8%,Medium,2.423130930639536, https://leetcode.com/problems/minimum-cost-to-connect-sticks,
 957,Prison Cells After N Days,40.7%,Medium,2.42269136604331, https://leetcode.com/problems/prison-cells-after-n-days,
