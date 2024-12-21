@@ -17,11 +17,11 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link, Status
 973,K Closest Points to Origin,63.8%,Medium,2.6240138122465444, https://leetcode.com/problems/k-closest-points-to-origin, DONE
 23,Merge k Sorted Lists,40.2%,Hard,2.5524109933277668, https://leetcode.com/problems/merge-k-sorted-lists,
 1167,Minimum Cost to Connect Sticks,62.8%,Medium,2.423130930639536, https://leetcode.com/problems/minimum-cost-to-connect-sticks,
-957,Prison Cells After N Days,40.7%,Medium,2.42269136604331, https://leetcode.com/problems/prison-cells-after-n-days,
+957,Prison Cells After N Days,40.7%,Medium,2.42269136604331, https://leetcode.com/problems/prison-cells-after-n-days, DONE
 295,Find Median from Data Stream,44.3%,Hard,2.3279113755186978, https://leetcode.com/problems/find-median-from-data-stream,
 42,Trapping Rain Water,48.9%,Hard,2.204080367616883, https://leetcode.com/problems/trapping-rain-water,
 1152,Analyze User Website Visit Pattern,43.5%,Medium,2.1610636126719283, https://leetcode.com/problems/analyze-user-website-visit-pattern,
-1268,Search Suggestions System,63.2%,Medium,2.157831912757614, https://leetcode.com/problems/search-suggestions-system,
+1268,Search Suggestions System,63.2%,Medium,2.157831912757614, https://leetcode.com/problems/search-suggestions-system, DONE
 588,Design In-Memory File System,45.9%,Hard,2.113625008500926, https://leetcode.com/problems/design-in-memory-file-system,
 460,LFU Cache,34.2%,Hard,2.029678026599572, https://leetcode.com/problems/lfu-cache,
 297,Serialize and Deserialize Binary Tree,47.5%,Hard,1.882237054194171, https://leetcode.com/problems/serialize-and-deserialize-binary-tree,
